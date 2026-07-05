@@ -1,8 +1,8 @@
 # Rectify Arabic Localization Project
 
-Arabic subtitle localization project for **Rectify first 3 Seasons**.
+Complete Arabic subtitle localization project for all four seasons of Rectify.
 
-This project includes a complete revision and localization of the Arabic subtitles across the 3 Seasons, with a focus on natural dialogue, linguistic accuracy, subtitle readability, timing refinement, consistency management, and quality control.
+The project covers the full localization workflow across the entire series, including dialogue adaptation, subtitle editing, waveform-based timing refinement, linguistic review, consistency management, and comprehensive quality control, with an emphasis on natural Arabic, readability, and technical accuracy.
 
 ## Project Scope
 
@@ -39,9 +39,9 @@ Language: Arabic
 
 ## Project Statistics
 
-* Seasons: 3
-* Episodes: 22
-* Subtitle Lines: 10,000+ (Approx.)
+* Seasons: 4
+* Episodes: 30
+* Subtitle Lines: 15,000+ (Approx.)
 * Source Format: BluRay H.265
 * Language: Arabic
 
